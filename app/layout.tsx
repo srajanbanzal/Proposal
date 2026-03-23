@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Will You Be My Valentine?",
+  title: "Will You Be My Girlfriend?",
 };
 
 export default function RootLayout({
